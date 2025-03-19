@@ -50,8 +50,8 @@ The backend is developed using **NestJS**, following a modular and scalable arch
 ### **Frontend Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/my-Matzip.git
-   cd MatzipApp
+   git clone https://github.com/your-repo/MatzipApp.git
+   cd front
    ```
 2. Install dependencies:
    ```bash
@@ -74,8 +74,8 @@ The backend is developed using **NestJS**, following a modular and scalable arch
 ### **Backend Setup**
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/your-repo/my-Matzip.git
-   cd matzip-server
+   git clone https://github.com/your-repo/MatzipApp.git
+   cd server
    ```
 2. Install dependencies:
    ```bash
