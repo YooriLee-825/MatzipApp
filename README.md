@@ -2,6 +2,10 @@
 
 **MatzipApp** is a full-stack mobile application that helps users create and manage their own restaurant map. This project covers frontend and backend development, providing a structured and scalable solution.
 
+## 📱 App Screenshots
+### Main & Login Screen
+![Image](https://github.com/user-attachments/assets/43773a50-00bc-416d-a1db-84eea249c969)
+
 ## 🚀 Tech Stack
 
 ### **Frontend**
@@ -108,6 +112,3 @@ We welcome contributions! Please follow these steps:
 ## 📜 License
 This project is licensed under the **UNLICENSED** license.
 
----
-
-이제 깃허브에 올려서 프로젝트를 알릴 준비가 되었어! 추가 수정이 필요하면 말해줘 😊
